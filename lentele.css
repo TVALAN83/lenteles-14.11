@@ -1,0 +1,71 @@
+p, .uzrasas {
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.vienas {
+    width: 100%;
+}
+.vienas, .vienas th, .vienas td {
+    border: 2px solid black;
+    text-align: center;
+    margin:0 auto;
+    border-spacing: 10px;
+}
+.vienas th, .vienas td {
+    padding: 5px 20px;
+}
+
+
+
+.du {
+    width: 100%;
+
+}
+.du, .du td {
+    border: 2px solid black;
+    margin:0 auto;
+    padding: 5px 30px;
+    border-spacing: 20px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.eilutespalva{
+    background-color: rgb(209, 213, 217);
+}
+
+.uzrasas{
+writing-mode:vertical-lr;
+text-orientation: upright;
+width: 20px;
+}
+
+
+.trys{
+    width: 100%;
+    border-spacing: 30px;
+}
+
+.trys, .trys td{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+
+}
+.coment{
+font-weight: bold;
+font-size: 20px;
+text-align: center;
+background-color: aquamarine;
+}
+.amount{
+    text-align: right;
+    padding: 5px 10px;
+}
+.country{
+text-align: left;
+font-weight: bold;
+font-size: 20px;
+border-spacing: 10px;
+background-color: aquamarine;
+padding-left: 10px;
+}
